@@ -12,7 +12,7 @@ function ExpenseTable({ expenses }) {
           {expenses.length === 0 ? (
             <tr>
               <td colSpan="3" style={{ textAlign: "center" }}>
-                No expenses yet 🥲
+                No expenses yet 
               </td>
             </tr>
           ) : (
