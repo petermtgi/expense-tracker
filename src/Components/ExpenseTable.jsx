@@ -5,7 +5,7 @@ function ExpenseTable({ expenses }) {
           <tr>
             <th>Description</th>
             <th>Category</th>
-            <th>Amount ($)</th>
+            <th>Amount (Ksh)</th>
           </tr>
         </thead>
         <tbody>
